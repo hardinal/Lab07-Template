@@ -7,8 +7,9 @@ package storage;
  * from listLength is incorrect because of arithmetic overflow.
  * 
  * @author Michael Main
- * @author ??? 
+ * @author Austin Hardin
  * added constructors, special exceptions, and refactored
+ * @author Joe Mama
  * @author Mitch Parry 
  * formatted for style
  * @author Daniel Wilkins
